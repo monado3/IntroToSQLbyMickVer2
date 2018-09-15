@@ -1,0 +1,1 @@
+alter table shohin drop shohin_mei_kana;

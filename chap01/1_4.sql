@@ -1,0 +1,1 @@
+alter table  shohin add column  shohin_mei_kana varchar (100);
